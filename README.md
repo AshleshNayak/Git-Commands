@@ -2,7 +2,7 @@
 
 ## 🔑 Generating New SSH Key
 
-1. ssh-keygen -t ed25519 -C "your_email@example.com"
+1. ssh-keygen -t ed25519 -C "youremail@example.com"
 2. press enter
 3. press enter
 4. clip < ~/.ssh/id_ed25519.pub
@@ -59,4 +59,5 @@ git push -u origin main
 4. Type :wq and press Enter
 
 Or simply:
+
 Just press :wq and Enter to use the default message
