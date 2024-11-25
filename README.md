@@ -61,3 +61,5 @@ git push -u origin main
 Or simply:
 
 Just press :wq and Enter to use the default message
+
+## For more commands refer ->https://intellipaat.com/mediaFiles/2019/03/Git-Cheat-Sheet.jpg
